@@ -2,7 +2,7 @@
   Hi 👋, I'm Doluwamu
   <br />
  A passionate fullstack developer
-</div>
+</h1>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">

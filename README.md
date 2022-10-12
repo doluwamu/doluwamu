@@ -1,11 +1,8 @@
 <h1 align="center">
   Hi 👋, I'm Doluwamu
   <br />
-  <br />
  A passionate fullstack developer
 </div>
-
-##
 
 <div align="center">
   <a href="https://github.com/rafaballerini">

@@ -21,6 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doluwamu&show_icons=true&locale=en" alt="doluwamu" /></p>
 
-<br/>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doluwamu&" alt="doluwamu" /></p>

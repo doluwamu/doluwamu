@@ -1,6 +1,7 @@
 <h1>
-  <p align="center">Hi 👋, I'm Doluwamu</h1>
-  <p align="center">A passionate fullstack developer</h3>
+  Hi 👋, I'm Doluwamu
+  <br/>
+ passionate fullstack developer
 </div>
 
 <div align="center">

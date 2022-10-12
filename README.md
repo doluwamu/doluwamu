@@ -1,8 +1,10 @@
-<h1>
+<h1 align="center">
   Hi 👋, I'm Doluwamu
   <br/>
  passionate fullstack developer
 </div>
+
+##
 
 <div align="center">
   <a href="https://github.com/rafaballerini">

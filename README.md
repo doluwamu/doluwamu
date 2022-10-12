@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doluwamu</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **Svelte, React Native**
+- 🌱 I’m currently learning **C#, Unity**
 
 - 💬 Ask me about **Anything Javascript/Typescript**
 

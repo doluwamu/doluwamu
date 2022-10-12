@@ -1,7 +1,8 @@
 <h1 align="center">
   Hi 👋, I'm Doluwamu
-  <br/>
- passionate fullstack developer
+  <br />
+  <br />
+ A passionate fullstack developer
 </div>
 
 ##

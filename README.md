@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Doluwamu
   <br />
- A lover of code
+ <p>A lover of code</p>
 </h1>
 
 <div align="center">
